@@ -1,4 +1,6 @@
-﻿# Implementation Roadmap
+# Implementation Roadmap
+
+**English** | [Tiếng Việt](vi/01-roadmap.md) · [Home](../README.md)
 
 This roadmap organizes the planned implementation into independently verifiable milestones. It does not imply that any milestone is complete.
 

@@ -1,4 +1,6 @@
-﻿# Money and Persistence
+# Money and Persistence
+
+**English** | [Tiếng Việt](vi/04-money-and-persistence.md) · [Home](../README.md)
 
 ## Exact money representation
 

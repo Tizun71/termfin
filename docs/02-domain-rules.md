@@ -1,4 +1,6 @@
-﻿# Domain Rules
+# Domain Rules
+
+**English** | [Tiếng Việt](vi/02-domain-rules.md) · [Home](../README.md)
 
 This document proposes a consistent initial domain model. Changes to these rules should update examples and test expectations before implementation.
 

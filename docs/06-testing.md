@@ -1,4 +1,6 @@
-﻿# Testing Strategy
+# Testing Strategy
+
+**English** | [Tiếng Việt](vi/06-testing.md) · [Home](../README.md)
 
 ## Unit-test target
 

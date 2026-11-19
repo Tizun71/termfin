@@ -1,5 +1,7 @@
 # Architecture
 
+**English** | [Tiếng Việt](vi/03-architecture.md) · [Home](../README.md)
+
 ## Layer boundaries
 
 Request flow: terminal input → CLI handler → application service → repository contract → storage adapter.

@@ -1,5 +1,7 @@
 # Termfin
 
+**English** | [Tiếng Việt](README.vi.md)
+
 Termfin is a planned terminal-based personal finance application written in Go. Its design covers multiple accounts, income and expenses, transfers, categories, budgets, monthly reports, and CSV/JSON data exchange.
 
 **Status: design and implementation guidance only.** This repository currently contains documentation. Application code, a Go module, persistent storage, and CI workflows have not been implemented. Checklists describe planned work, not available features.
@@ -28,7 +30,7 @@ Termfin is a planned terminal-based personal finance application written in Go. 
 | [Testing strategy](docs/06-testing.md) | Forty proposed unit-test scenarios and integration coverage |
 | [Definition of done](docs/07-definition-of-done.md) | Acceptance criteria, CI requirements, and release documentation |
 
-Read the domain rules and architecture before implementing a feature. Design proposals are identified as such; unresolved decisions appear as unchecked tasks. Update the relevant specification and tests whenever a rule changes.
+Read the domain rules and architecture before implementing a feature. Design proposals are identified as such; unresolved decisions appear as unchecked tasks. Update the relevant specification and tests whenever a rule changes. When editing documentation, update both English and Vietnamese versions to keep them consistent.
 
 ## Design goals
 
@@ -42,7 +44,7 @@ The project also provides a practical setting for Go fundamentals: functions, st
 
 ## Contributing
 
-Documentation improvements, edge cases, and design feedback are useful at this stage. For a proposed change, describe the problem, affected rules, expected behavior, and acceptance criteria. Keep specifications and examples consistent across documents.
+Documentation improvements, edge cases, and design feedback are useful at this stage. For a proposed change, describe the problem, affected rules, expected behavior, and acceptance criteria. Keep specifications and examples consistent across documents and both languages.
 
 Implementation contributions should follow the documented layer boundaries and include tests for affected behavior. Installation instructions and executable examples should be added when a working application is available.
 

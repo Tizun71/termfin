@@ -1,4 +1,6 @@
-﻿# CLI and Data Exchange
+# CLI and Data Exchange
+
+**English** | [Tiếng Việt](vi/05-cli-and-data-exchange.md) · [Home](../README.md)
 
 ## Command behavior
 

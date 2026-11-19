@@ -1,4 +1,6 @@
-﻿# Definition of Done
+# Definition of Done
+
+**English** | [Tiếng Việt](vi/07-definition-of-done.md) · [Home](../README.md)
 
 This checklist defines the proposed initial release criteria. All items remain pending until supported by implementation and verification evidence.
 
